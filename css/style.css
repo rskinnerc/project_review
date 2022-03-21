@@ -1,0 +1,19 @@
+@media (min-width: 300px ){
+  h1 {
+    color: blueviolet;
+  }
+  body {
+    background-color: lightblue;
+  }
+
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
